@@ -1,0 +1,4 @@
+#Fri Jun 14 12:48:20 SGT 2019
+base.0=C\:\\Users\\ASUS\\Downloads\\Telegram Desktop\\Unity\\Unity\\Build\\Jukebox\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -4,7 +4,7 @@ Refer to the following [link](https://youtu.be/2uuDL-eeGaw) for a demo.
 
 Unity directly reads the corresponding text file and sends the notes to play to an Arduino via Serial communication.
 
-Serial communication between Unity and Python takes reference from: https://www.youtube.com/watch?v=vFkuEeyFHF8
+Serial communication between Unity and Arduino takes reference from: https://www.youtube.com/watch?v=vFkuEeyFHF8
 Creating the scrolling interface in Unity takes reference from: https://www.youtube.com/watch?v=9B7ahj1kaYs
 Creating the drag-and-drop feature in Unity takes reference from: https://www.youtube.com/watch?v=bMuYUOIAdnc 
 

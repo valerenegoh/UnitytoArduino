@@ -13,7 +13,7 @@ The Arduino script requires you to set up an electronic circuit with 25 LEDs/sol
 Steps:
 1. Connect to your Arduino and upload the sketch in `Arduino folder`.
 2. Ensure that your Arduino is connected to the right COM Port in `DropZone.cs`.
-3. Open The Unity project & run.
+3. Open the Unity project & run.
 
 To add new songs to the playlist:
 1. Run Part 1 of https://github.com/ValereneGoh/MiditoArduino to convert to midi to interpretable text format files.

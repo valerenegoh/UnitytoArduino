@@ -18,4 +18,4 @@ Steps:
 To add new songs to the playlist:
 1. Run Part 1 of https://github.com/ValereneGoh/MiditoArduino to convert to midi to interpretable text format files.
 2. Add the text file to the folder under Assets > Scripts > txt.
-3. Open Unity and manually create a new CD player and holder for the new song via the Prefab folder. I can create a tutorial on YouTube on how to do it if necessary.
+3. Open Unity and manually create a new CD player and holder for the new song via the Prefab folder.
